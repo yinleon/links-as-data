@@ -1,0 +1,9 @@
+urlexpander
+smappdragon
+umap-learn
+scikit-learn
+pandas
+numpy
+tqdm
+matplotlib
+s34me
