@@ -4,6 +4,8 @@ Leon Yin 2018-10-01
 ## Introduction
 This  repo contains a Jupyter notebook (view it here on Github, or here on NBViewer) which demos how to extract URLs from Twitter data, preprocess and expand them, and perform rudimentary data analysis using supervised and unsupervied machine learning. The notebook and some auxilliary files are in the `nbs` (short for notebooks) directory. Where `congress-links.ipnb` is the main notebook, `download_data.py` is a script to download the raw and intermediate data used in the notebook, and `config.py` contains gloval variables for where data is stored locally.
 
+The notebook can be viewed as [slides](http://www.leonyin.org/presentations/congress-links-slides.slides.html).
+
 ## Requirements
 This notebook is intended to be run with Python 3.6 or above, utilizing default packages as well as open source packages in `requirements.txt`.
 
